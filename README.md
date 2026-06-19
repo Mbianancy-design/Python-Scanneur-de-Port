@@ -32,6 +32,13 @@ Puis suis les instructions à l'écran pour entrer l'IP/nom d'hôte cible et la 
 *(Adapte cette partie selon comment ton-ACK script demande réellement les inputs)*
 
 ## 📋 Exemple de résultat
+Entrez le nom du site ou l'IP à scanner (ex; google.com ou 127.0.0.1 ): gmail.com
+
+[!] Cible convertie en IP : 216.58.205.101
+--- Début du scan sur gmail.com ---
+Cela peut prendre une minute...
+
+ [+] Port 80 : OUVERT | HTTP (Site Web)
 
 
 ## ⚠️ Avertissement
